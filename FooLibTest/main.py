@@ -2,7 +2,7 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-from FooLib.foo import Foo
+from FooLibTest.foo import Foo
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
